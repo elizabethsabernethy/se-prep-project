@@ -1,9 +1,12 @@
 body {
     background: cornflowerblue;
     color: rgb(4, 34, 67);
+    text-align: center;
 }
 
 h1 {
     color:rgb(255, 153, 0);
-    font-family: 'Times New Roman', Times, serif;
+    font-family:cursive;
+    text-align: center;
+    font-size: x-large;
 }
