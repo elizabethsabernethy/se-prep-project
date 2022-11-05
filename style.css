@@ -6,7 +6,17 @@ body {
 
 h1 {
     color:rgb(255, 153, 0);
-    font-family:cursive;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    font-size: x-large;
+    font-size: 50px;
+}
+
+table {
+    color:black;
+    font-size:20px;
+    margin:auto;
+}
+
+tr {
+    text-align: center;
 }
