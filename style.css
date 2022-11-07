@@ -17,13 +17,14 @@ table#random-facts {
     margin: auto;
     width: max-content;
     padding: 20px;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 td {
     text-align: center;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20x;
+    padding-bottom: 10px;
     text-decoration: underline;
     text-decoration-color:rgb(255, 153, 0);
 }
@@ -41,4 +42,12 @@ img#baby{
 img#brain{
     width:200px;
     height:150px;
+}
+
+button#clickMe{
+    width:100px;
+    height:50px;
+    background: yellowgreen;
+    font-style: oblique;
+    font-size: 40px;
 }
